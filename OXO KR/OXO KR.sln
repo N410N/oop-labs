@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OXO KR", "OXO KR\OXO KR.csproj", "{553418F6-4A74-4E55-ADA4-6F6865058F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553418F6-4A74-4E55-ADA4-6F6865058F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553418F6-4A74-4E55-ADA4-6F6865058F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553418F6-4A74-4E55-ADA4-6F6865058F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553418F6-4A74-4E55-ADA4-6F6865058F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1155C5-8E46-43AC-B6E7-58842CB60195}
+	EndGlobalSection
+EndGlobal
